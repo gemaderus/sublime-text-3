@@ -1,0 +1,50 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Autoprefixer",
+		"Babel",
+		"BracketHighlighter",
+		"cartodb-snippets-st3",
+		"Case Conversion",
+		"Color Highlighter",
+		"CSS Completions",
+		"DocBlockr",
+		"Dracula Color Scheme",
+		"EditorConfig",
+		"EJS",
+		"Emmet",
+		"File Rename",
+		"Flight JS Snippets",
+		"GitGutter",
+		"Gitignored File Excluder",
+		"Handlebars",
+		"HTML5",
+		"JavaScript & NodeJS Snippets",
+		"JsFormat",
+		"Monokai - Spacegray",
+		"Package Control",
+		"ReactJS",
+		"Ruby on Rails snippets",
+		"Sass",
+		"Solarized Color Scheme",
+		"Stylus",
+		"sublime-github",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-contrib-semistandard",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	],
+	"repositories":
+	[
+		"https://github.com/nobuti/cartodb-snippets-st3"
+	]
+}

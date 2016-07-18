@@ -1,0 +1,21 @@
+<snippet>
+  <content><![CDATA[
+if (typeof exports === 'object') {
+  // CommonJS module
+  module.exports = ${1:factory()};
+} else if (typeof define === 'function' && define.amd) {
+  // AMD. Register as an anonymous module.
+  define(function(req) {
+    return ${1:factory()};
+  });
+} else {
+  global.${2:Component} = ${1:factory()};
+}
+]]></content>
+<tabTrigger>amd</tabTrigger>
+<scope>source.js</scope>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <!-- <tabTrigger>amd</tabTrigger> -->
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.js</scope> -->
+</snippet>

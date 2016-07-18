@@ -1,0 +1,70 @@
+{
+	"always_show_minimap_viewport": false,
+	"binary_file_patterns":
+	[
+		"node_modules/*",
+		"tmp/*",
+		"cartodb/.grunt/cartodb3-specs.js"
+	],
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
+	"default_line_ending": "unix",
+	"draw_minimap_border": false,
+	"draw_white_space": "all",
+	"extra_file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		"node_modules"
+	],
+	"find_selected_text": true,
+	"fold_buttons": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache",
+		"tmp"
+	],
+	"font_face": "Inconsolata for Powerline",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 16,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignore_inodes": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"soda_classic_tabs": true,
+	"soda_folder_icons": false,
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true",
+	"wrap_width": 120
+}
