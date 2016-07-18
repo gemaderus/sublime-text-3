@@ -3,8 +3,7 @@
 	"binary_file_patterns":
 	[
 		"node_modules/*",
-		"tmp/*",
-		"cartodb/.grunt/cartodb3-specs.js"
+		"tmp/*"
 	],
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/SublimeLinter/Dracula (SL).tmTheme",
